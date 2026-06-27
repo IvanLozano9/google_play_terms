@@ -48,7 +48,7 @@ En virtud del Reglamento General de Protección de Datos (RGPD) y la Ley Orgáni
 • Oponerte al tratamiento o solicitar su limitación.
 • Presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD) en www.aepd.es.
  
-Para ejercer estos derechos respecto a datos tratados por el Desarrollador, puedes contactar en: [TU_EMAIL@ejemplo.com]
+Para ejercer estos derechos respecto a datos tratados por el Desarrollador, puedes contactar.
 
 Para datos tratados por Google AdMob, dirígete directamente a Google a través de su política de privacidad.
 
