@@ -8,8 +8,6 @@ Puzzle Arrows
 
 Iván Grima Lozano (en adelante, "el Desarrollador"), con domicilio en España, es el responsable del tratamiento de datos en relación con la aplicación móvil Puzzle Arrows (en adelante, "la Aplicación").
 
-Contacto: [TU_EMAIL@ejemplo.com]
-
 2. Datos que recogemos
 
 La Aplicación NO recoge, almacena ni procesa ningún dato personal del usuario. Específicamente:
