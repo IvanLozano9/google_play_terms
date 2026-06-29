@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": 1,
+      "mode": "oddOneOut",
+      "difficulty": 1,
+      "ruleDescription": "Encuentra al intruso",
+      "correctIds": ["3"],
+      "elements": [
+        {"id": "1", "icon": "dog", "type": "animal", "color": "blue", "shape": "circle"},
+        {"id": "2", "icon": "cat", "type": "animal", "color": "red", "shape": "square"},
+        {"id": "3", "icon": "car", "type": "vehicle", "color": "yellow", "shape": "triangle"}
+      ]
+    }
+  ]
+}
