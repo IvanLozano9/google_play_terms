@@ -1,16 +1,28 @@
 {
-  "version": 1,
+  "version": 2,
   "levels": [
     {
       "id": 1,
       "mode": "oddOneOut",
       "difficulty": 1,
-      "ruleDescription": "Encuentra al intruso",
+      "ruleDescription": "Busca el coche",
       "correctIds": ["3"],
       "elements": [
         {"id": "1", "icon": "dog", "type": "animal", "color": "blue", "shape": "circle"},
         {"id": "2", "icon": "cat", "type": "animal", "color": "red", "shape": "square"},
         {"id": "3", "icon": "car", "type": "vehicle", "color": "yellow", "shape": "triangle"}
+      ]
+    },
+    {
+      "id": 2,
+      "mode": "oddOneOut",
+      "difficulty": 2,
+      "ruleDescription": "Busca el color rojo",
+      "correctIds": ["6"],
+      "elements": [
+        {"id": "4", "icon": "star", "type": "object", "color": "blue", "shape": "star"},
+        {"id": "5", "icon": "star", "type": "object", "color": "blue", "shape": "star"},
+        {"id": "6", "icon": "star", "type": "object", "color": "red", "shape": "star"}
       ]
     }
   ]
